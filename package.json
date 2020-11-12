@@ -1,0 +1,18 @@
+{
+  "name": "nuxt-dd-trace",
+  "version": "0.1.2",
+  "description": "Enable Datadog tracing in your Nuxt application",
+  "main": "index.js",
+  "author": "Nihit Jain",
+  "homepage": "https://github.com/nihitjain11/nuxt-dd-trace",
+  "repository": "github:nihitjain11/nuxt-dd-trace",
+  "contributors": [
+    "Aaron Ransley (https://aaronransley.com)",
+    "Charlie Pitkin",
+    "FINE, A Brand Agency (https://wearefine.com)"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "dd-trace": "^0.28.1"
+  }
+}
